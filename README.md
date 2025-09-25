@@ -1,10 +1,10 @@
 ## Hi, I'm Kevin 👋
 
-- 🔭 Norheastern University London - First year<br/>
+- 🔭 Norheastern University London - Second year<br/>
 - 🌱 Computer Science and Business BSc degree student<br/>
 - 💬 Currently learning:<br/>
-- 👯 Programming with Data<br/>
-- 🤔 OOP<br/>
+- 👯 Database Design<br/>
+- 🤔 OOD<br/>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmgateira@gmail.com) 
