@@ -3,8 +3,10 @@
 - 🔭 Norheastern University London - Second year<br/>
 - 🌱 Computer Science and Business BSc degree student<br/>
 - 💬 Currently learning:<br/>
-- 👯 Database Design<br/>
-- 🤔 OOD<br/>
+- 📊 Business Statistics<br/>
+- 🔒 Cybersecurity<br/>
+- 🤖 Algorithms and Data<br/>
+- 🧠 Information Systems and Digital Technologies<br/>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmgateira@gmail.com) 
