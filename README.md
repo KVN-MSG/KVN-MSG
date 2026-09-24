@@ -1,12 +1,12 @@
 ## Hi, I'm Kevin 👋
 
-- 🔭 Norheastern University London - Second year<br/>
+- 🔭 Norheastern University London - Third year<br/>
 - 🌱 Computer Science and Business BSc degree student<br/>
 - 💬 Currently learning:<br/>
-- 📊 Business Statistics<br/>
-- 🔒 Cybersecurity<br/>
-- 🤖 Algorithms and Data<br/>
-- 🧠 Information Systems and Digital Technologies<br/>
+- 📊 Supply Chain and Operations Management<br/>
+- 🔒 Fundamentals of Software Engineering<br/>
+- 🤖 Advanced Information Presentation & Visualisation<br/>
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmgateira@gmail.com) 
