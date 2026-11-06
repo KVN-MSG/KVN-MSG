@@ -1,4 +1,4 @@
-## Hi, I'm Kevin 👋
+## Hi 👋
 
 - 🔭 Norheastern University London - Third year<br/>
 - 🌱 Computer Science and Business BSc degree student<br/>
